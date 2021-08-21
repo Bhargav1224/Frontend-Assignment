@@ -1,3 +1,10 @@
+body {
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+
+	background: #eaeaea;
+}
 #destop-1 {
 	height: 364px;
 	width: 100%;
@@ -201,7 +208,7 @@
 	height: 100px;
 	left: 143px;
 	top: 314px;
-	border: 1px solid rgb(134, 133, 133);
+	background-color: white;
 	border-radius: 10%;
 }
 #button {
@@ -320,6 +327,28 @@ p {
 	height: 200px;
 	left: 737px;
 	top: 453px;
+
+	background: #ffffff;
+	box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.05);
+	border-radius: 24px;
+}
+.card-3 {
+	position: absolute;
+	width: 560px;
+	height: 200px;
+	left: 143px;
+	top: 684px;
+
+	background: #ffffff;
+	box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.05);
+	border-radius: 24px;
+}
+.card-4 {
+	position: absolute;
+	width: 560px;
+	height: 200px;
+	left: 737px;
+	top: 684px;
 
 	background: #ffffff;
 	box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.05);
