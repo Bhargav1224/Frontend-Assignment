@@ -237,17 +237,6 @@
 	color: #7b7b7b;
 }
 
-#book {
-	position: absolute;
-	width: 1154px;
-	height: 100px;
-	left: 143px;
-	top: 314px;
-
-	background: #ffffff;
-	box-shadow: 2px 12px 8px 2px rgba(0, 0, 0, 0.05);
-	border-radius: 24px;
-}
 #box {
 	position: absolute;
 	width: 280px;
@@ -257,4 +246,82 @@
 
 	background: #f07987;
 	border-radius: 8px;
+}
+
+.card-1 {
+	position: absolute;
+	width: 560px;
+	height: 200px;
+	left: 143px;
+	top: 453px;
+
+	background: #ffffff;
+	box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.05);
+	border-radius: 24p;
+}
+.mini {
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	left: 15px;
+	top: 20px;
+	background: #c4c4c4;
+	border-radius: 16px;
+}
+h3 {
+	position: absolute;
+	width: 229px;
+	height: 36px;
+	left: 185px;
+	top: 10px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 36px;
+}
+
+p {
+	position: absolute;
+	width: 336px;
+	height: 63px;
+	left: 185px;
+	top: 57px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 21px;
+
+	color: #7b7b7b;
+}
+.view {
+	position: absolute;
+	width: 87px;
+	height: 21px;
+	left: 359px;
+	top: 158px;
+
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 21px;
+	/* identical to box height */
+	color: #f07987;
+	border: 1px solid #f07987;
+}
+
+.card-2 {
+	position: absolute;
+	width: 560px;
+	height: 200px;
+	left: 737px;
+	top: 453px;
+
+	background: #ffffff;
+	box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.05);
+	border-radius: 24px;
 }
